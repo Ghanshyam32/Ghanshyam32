@@ -1,7 +1,7 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Ghanshyam Mishra</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
-<p align="right"> <img src="(img align="right" alt="Coding" width="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/001/579/039/datas/medium.gif">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on [E-Kart](https://github.com/Ghanshyam32/E-Cart)
 
