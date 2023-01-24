@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam32&" alt="ghanshyam32" /></p>
 
- Profile Hits: [![HitCount](https://hits.dwyl.com/ghanshyam32/ghanshyam32.svg?style=flat-square)](http://hits.dwyl.com/ghanshyam32/ghanshyam32)
+ Profile Hits: [![HitCount](https://hits.dwyl.com/Ghanshyam32/Ghanshyam32.svg?style=flat-square)](http://hits.dwyl.com/Ghanshyam32/Ghanshyam32)
