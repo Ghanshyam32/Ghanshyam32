@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ghanshyam32](https://github.com/Ghanshyam32)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Android, Java, Python, Dart**
 
 - 📫 How to reach me **ghanshyammishra3205615@gmail.com**
 
