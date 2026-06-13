@@ -1,35 +1,151 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
-<h1 align="center">Hi 👋, I'm Ghanshyam Mishra</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
 
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/Ghanshyam32/snap-saga)
+```
+ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ███╗
+██╔════╝ ██║  ██║██╔══██╗████╗  ██║██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗ ████║
+██║  ███╗███████║███████║██╔██╗ ██║███████╗███████║ ╚████╔╝ ███████║██╔████╔██║
+██║   ██║██╔══██║██╔══██║██║╚██╗██║╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╔╝██║
+╚██████╔╝██║  ██║██║  ██║██║ ╚████║███████║██║  ██║   ██║   ██║  ██║██║ ╚═╝ ██║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-- 🌱 I’m currently learning **Android**
+### Java Backend Developer · Spring Boot · REST APIs · PostgreSQL
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ghanshyam32](https://github.com/Ghanshyam32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-mishra-se/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanshyam32)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ghanshyam0708/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyammishra3205615@gmail.com)
 
-- 💬 Ask me about **Android, Java, Kotlin, Python**
+</div>
 
-- 📫 How to reach me **ghanshyammishra3205615@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ghanshyam32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghanshyam32" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghanshyam-mishra-83949a124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanshyam-mishra-83949a124/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100010794042651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010794042651" height="30" width="40" /></a>
-<a href="https://instagram.com/ghanshyam0708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghanshyam0708/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ghanshyam32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghanshyam32" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ghanshyam0708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghanshyam0708/" height="30" width="40" /></a>
-</p>
+## whoami
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```java
+Developer ghanshyam = new Developer.Builder()
+    .name("Ghanshyam Mishra")
+    .role("Java Backend Developer")
+    .location("Delhi, India")
+    .experience("1+ year")
+    .education("MCA · Galgotias University (2025)")
+    .certifiedBy("IIT Kharagpur — Java & Cloud Computing")
+    .currentlyBuilding("Gymersheet · Job Search Autopilot · Yojana AI")
+    .openTo("GCCs · Product Startups · Mid-size Tech Companies")
+    .availableToJoin(true)
+    .build();
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanshyam32&show_icons=true&locale=en&layout=compact" alt="ghanshyam32" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanshyam32&show_icons=true&locale=en" alt="ghanshyam32" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam32&" alt="ghanshyam32" /></p>
+**Backend**
 
- [![HitCount](https://hits.dwyl.com/Ghanshyam32/Ghanshyam32.svg)](http://hits.dwyl.com/Ghanshyam32/Ghanshyam32)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring AOP](https://img.shields.io/badge/Spring_AOP-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+**Database & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Caffeine](https://img.shields.io/badge/Caffeine_Cache-6D4C41?style=flat-square&logo=java&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Frontend (Learning)**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ Gymersheet — Multi-Tenant SaaS Gym Management Platform
+> Full-featured backend for gym chains with **54+ REST APIs**, RBAC, and real-time operations
+
+- **JWT Auth with RBAC** — role-based access control derived from DB, `@EnableMethodSecurity`
+- **Spring AOP Audit Logging** — tracks every write operation across all entities
+- **QR-based Check-in System** — member join QR + daily attendance QR flow
+- **Cloudflare R2 Storage** — org logos, gym photos, member photos with Thumbnailator compression
+- **HikariCP Tuning + Flyway Migrations** — production-grade connection pooling through V24
+- **N+1 fixes** — `@EntityGraph` + batch loading across all entity relationships
+
+`Java` `Spring Boot` `PostgreSQL` `Spring Security` `Spring AOP` `Cloudflare R2` `Flyway` `HikariCP`
+
+---
+
+### 🤖 Job Search Autopilot — AI-Powered Job Pipeline
+> Automated scraping → matching → outreach pipeline using Gemini API
+
+- **Jsoup scraper** with SHA-256 deduplication to avoid reprocessing seen listings
+- **PDFBox resume parser** for dynamic JD-to-resume matching
+- **Spring WebFlux** for non-blocking, concurrent job feed processing
+- **Gemini API integration** for fit scoring and outreach draft generation
+
+`Java` `Spring WebFlux` `Gemini API` `Jsoup` `PDFBox` `PostgreSQL`
+
+---
+
+### 🏛️ Yojana AI — Government Scheme Eligibility Checker
+> Conversational AI tool that helps citizens discover schemes they qualify for
+
+- Integrates **Gemini 2.5 Flash** for NLP-based eligibility assessment
+- REST API backend with structured scheme data and dynamic query resolution
+
+`Java` `Spring Boot` `Gemini 2.5 Flash` `REST API`
+
+---
+
+### 🍽️ MealDB Explorer — Full-Stack Recipe App
+> Spring Boot + React recipe browser with intelligent caching
+
+- **Caffeine caching** on meal API responses — dramatically reduced external calls
+- Full-stack: Spring Boot REST backend + React/Vite frontend
+
+`Java` `Spring Boot` `React` `Caffeine Cache` `REST API`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=ghanshyam32&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanshyam32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam32&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" alt="Streak Stats" />
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- ☁️ **IIT Kharagpur Certified** — Java and Cloud Computing
+- 📱 **Published Android App** — Kotlin/Firebase app shipped to Google Play Store (Jiva Health Innovation)
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **Java/Spring Boot Backend roles** in Delhi NCR — immediate joiner.
+
+> Building things that actually ship. Always learning. Never making excuses.
+
+[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-mishra-se/)
+
+---
