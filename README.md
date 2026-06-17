@@ -110,16 +110,6 @@ Developer ghanshyam = new Developer.Builder()
 
 ---
 
-### 🍽️ MealDB Explorer — Full-Stack Recipe App
-> Spring Boot + React recipe browser with intelligent caching
-
-- **Caffeine caching** on meal API responses — dramatically reduced external calls
-- Full-stack: Spring Boot REST backend + React/Vite frontend
-
-`Java` `Spring Boot` `React` `Caffeine Cache` `REST API`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
