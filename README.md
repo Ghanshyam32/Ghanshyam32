@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-### Java Backend Developer · Spring Boot · REST APIs · PostgreSQL
+### Java Backend Developer · Spring Boot · REST APIs · PostgreSQL · Gen AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-mishra-se/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanshyam32)
@@ -26,11 +26,11 @@
 Developer ghanshyam = new Developer.Builder()
     .name("Ghanshyam Mishra")
     .role("Java Backend Developer")
-    .location("Delhi, India")
+    .location("Delhi NCR, India")
     .experience("1+ year")
-    .education("MCA · Galgotias University (2025)")
+    .education("BCA + MCA · 2025")
     .certifiedBy("IIT Kharagpur — Java & Cloud Computing")
-    .currentlyBuilding("Gymersheet · Job Search Autopilot · Yojana AI")
+    .currentlyBuilding("DocuMind · Gymersheet · Job Search Autopilot")
     .openTo("GCCs · Product Startups · Mid-size Tech Companies")
     .availableToJoin(true)
     .build();
@@ -44,6 +44,7 @@ Developer ghanshyam = new Developer.Builder()
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring AOP](https://img.shields.io/badge/Spring_AOP-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
@@ -52,9 +53,16 @@ Developer ghanshyam = new Developer.Builder()
 **Database & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Caffeine](https://img.shields.io/badge/Caffeine_Cache-6D4C41?style=flat-square&logo=java&logoColor=white)
+
+**AI & ML**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-764ABC?style=flat-square&logo=postgresql&logoColor=white)
 
 **Infrastructure & Tools**
 
@@ -74,6 +82,20 @@ Developer ghanshyam = new Developer.Builder()
 
 ## 🚀 Featured Projects
 
+### 🧠 DocuMind — RAG Document Intelligence Backend
+> Upload any PDF or TXT → ask questions in plain English → get answers with exact source citations
+
+- **RAG Pipeline** — 500-token chunking with 50-token overlap, 3072-dim Gemini embeddings stored in pgvector
+- **Vector Similarity Search** — cosine distance search via pgvector to find most relevant chunks
+- **Per-user Document Isolation** — each user's documents completely separated, JWT-secured
+- **Conversational Memory** — remembers last 5 exchanges per session for multi-turn Q&A
+- **Full Docker Compose** — app + pgvector DB containerized, one command to run everything
+- **Flyway Migrations** — schema versioned across 4 migrations including pgvector extension setup
+
+`Java` `Spring Boot` `Spring AI` `PostgreSQL` `pgvector` `Gemini API` `JWT` `Docker` `PDFBox`
+
+---
+
 ### 🏋️ Gymersheet — Multi-Tenant SaaS Gym Management Platform
 > Full-featured backend for gym chains with **54+ REST APIs**, RBAC, and real-time operations
 
@@ -88,7 +110,7 @@ Developer ghanshyam = new Developer.Builder()
 
 ---
 
-### 🤖 Job Search Autopilot — AI-Powered Job Pipeline
+### 🤖 Job Search Autopilot — AI-Powered Job Pipeline `[WIP]`
 > Automated scraping → matching → outreach pipeline using Gemini API
 
 - **Jsoup scraper** with SHA-256 deduplication to avoid reprocessing seen listings
@@ -100,21 +122,9 @@ Developer ghanshyam = new Developer.Builder()
 
 ---
 
-### 🏛️ Yojana AI — Government Scheme Eligibility Checker
-> Conversational AI tool that helps citizens discover schemes they qualify for
-
-- Integrates **Gemini 2.5 Flash** for NLP-based eligibility assessment
-- REST API backend with structured scheme data and dynamic query resolution
-
-`Java` `Spring Boot` `Gemini 2.5 Flash` `REST API`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=ghanshyam32&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanshyam32&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
@@ -127,7 +137,9 @@ Developer ghanshyam = new Developer.Builder()
 ## 🏆 Highlights
 
 - ☁️ **IIT Kharagpur Certified** — Java and Cloud Computing
-- 📱 **Published Android App** — Kotlin/Firebase app shipped to Google Play Store (Jiva Health Innovation)
+- 📱 **Published Android App** — Java/Firebase app shipped to Google Play Store (Jiva Health Innovation)
+- 🧠 **Built end-to-end RAG pipeline** — embeddings, vector search, LLM integration from scratch
+
 ---
 
 ## 📫 Let's Connect
