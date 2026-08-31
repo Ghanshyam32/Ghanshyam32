@@ -25,7 +25,7 @@
 ```java
 Developer ghanshyam = new Developer.Builder()
     .name("Ghanshyam Mishra")
-    .role("Java Backend Developer")
+    .role("Full Stack Developer")
     .location("Delhi NCR, India")
     .experience("1+ year")
     .education("BCA + MCA · 2025")
