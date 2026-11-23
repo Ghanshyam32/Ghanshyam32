@@ -134,7 +134,10 @@ Developer ghanshyam = new Developer.Builder()
 
 ---
 
-**More:** [spring-boot-auth](https://github.com/Ghanshyam32/spring-boot-auth) (JWT + email verification) · [blog-app](https://github.com/Ghanshyam32/blog-app) (Spring Security, RBAC) · [chronos-app](https://github.com/Ghanshyam32/chronos-app) and [snap-saga](https://github.com/Ghanshyam32/snap-saga) (Android, from my Kotlin days)
+### 📱 [Snap Saga](https://github.com/Ghanshyam32/snap-saga) — Social Media App (Android)
+> Instagram-style app with reel uploads and photo posts, from my Android days
+
+`Kotlin` `Android` `Firebase Auth` `Firestore` `Firebase Storage`
 
 ---
 
