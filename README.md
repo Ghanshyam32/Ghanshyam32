@@ -111,8 +111,8 @@ I work on CheapTicketsDeal, a flight-booking platform. Mostly Spring Boot on the
 ### 🩺 [Medscalar](https://medscalar.com) — NEET prep platform I built and run
 > Mock tests and practice for NEET aspirants, with paying users. Spring Boot, React and PostgreSQL, deployed on Cloud Run.
 
-- Getting it ready for an all-India mock test: 700+ students registered early, and we expect 3,000–4,000 on the day, all inside one 3-hour window
-- That means exam timers have to live on the server, and autosave and submission have to hold up when everyone hits "submit" in the last few minutes
+- I built and run all of it: the Spring Boot backend, the student and admin frontends, and the deployment
+- Hosted an all-India NEET mock test on it, with students across the country taking the same paper in one 3-hour window
 
 `Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Cloud Run`
 
