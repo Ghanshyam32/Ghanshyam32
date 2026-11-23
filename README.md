@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-### Java Backend Developer · Spring Boot · REST APIs · PostgreSQL · Gen AI
+### Full-Stack Engineer · Spring Boot + React · AI Integrations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-mishra-se/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanshyam32)
@@ -25,12 +25,13 @@
 ```java
 Developer ghanshyam = new Developer.Builder()
     .name("Ghanshyam Mishra")
-    .role("Full Stack Developer")
+    .role("Full-Stack Engineer — Spring Boot + React, AI integrations")
     .location("Delhi NCR, India")
-    .experience("1+ year")
+    .experience("1+ year shipping production apps")
+    .journey("Android (Kotlin) → Java backend → full stack → AI")
     .education("BCA + MCA · 2025")
     .certifiedBy("IIT Kharagpur — Java & Cloud Computing")
-    .currentlyBuilding("DocuMind · Gymersheet · Job Search Autopilot")
+    .currentlyBuilding("Medscalar — NEET exam-prep platform (freelance)")
     .openTo("GCCs · Product Startups · Mid-size Tech Companies")
     .availableToJoin(true)
     .build();
@@ -73,52 +74,67 @@ Developer ghanshyam = new Developer.Builder()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**Frontend (Learning)**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Mobile (where I started)**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+## 💼 Experience
+
+| When | Where | What |
+|---|---|---|
+| Aug 2026 – now | **Medscalar** (freelance) | Full-stack NEET exam-prep platform with real users — Spring Boot backend, React admin and student apps |
+| Sep 2025 – May 2026 | **D Quanta Labs** (SWE intern, full stack) | CheapTicketsDeal flight-booking platform — backend and frontend features |
+| Dec 2024 – Aug 2025 | **Jiva Health Innovation** (freelance) | Kotlin Android app shipped to the Google Play Store |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 DocuMind — RAG Document Intelligence Backend
-> Upload any PDF or TXT → ask questions in plain English → get answers with exact source citations
+### 🏋️ [GymerSheet](https://github.com/Ghanshyam32/gymersheet-case-study) — Multi-Tenant Gym SaaS · [live](https://gymersheet.com)
+> Backend I built for a gym management product used by **100+ gyms and 5,000+ members**. Code is private — the [case study](https://github.com/Ghanshyam32/gymersheet-case-study) covers the architecture.
 
-- **RAG Pipeline** — 500-token chunking with 50-token overlap, 3072-dim Gemini embeddings stored in pgvector
-- **Vector Similarity Search** — cosine distance search via pgvector to find most relevant chunks
-- **Per-user Document Isolation** — each user's documents completely separated, JWT-secured
-- **Conversational Memory** — remembers last 5 exchanges per session for multi-turn Q&A
-- **Full Docker Compose** — app + pgvector DB containerized, one command to run everything
-- **Flyway Migrations** — schema versioned across 4 migrations including pgvector extension setup
+- **Multi-tenant RBAC** — owner → organization → gyms; manager/staff roles scoped per gym, resolved from the DB on every request
+- **DB-level integrity** — PostgreSQL exclusion constraint makes overlapping memberships impossible, even under concurrent requests
+- **Real logout for JWTs** — Redis blocklist with TTL = remaining token lifetime
+- **Spring AOP audit log** — before/after JSONB snapshots for every write
+- **Performance** — N+1 fixes with `@EntityGraph` + batch fetching, HikariCP tuning
+- **55+ REST endpoints**, QR join/check-in flows, Cloudflare R2 storage, scheduled expiry emails
 
-`Java` `Spring Boot` `Spring AI` `PostgreSQL` `pgvector` `Gemini API` `JWT` `Docker` `PDFBox`
-
----
-
-### 🏋️ Gymersheet — Multi-Tenant SaaS Gym Management Platform
-> Full-featured backend for gym chains with **54+ REST APIs**, RBAC, and real-time operations
-
-- **JWT Auth with RBAC** — role-based access control derived from DB, `@EnableMethodSecurity`
-- **Spring AOP Audit Logging** — tracks every write operation across all entities
-- **QR-based Check-in System** — member join QR + daily attendance QR flow
-- **Cloudflare R2 Storage** — org logos, gym photos, member photos with Thumbnailator compression
-- **HikariCP Tuning + Flyway Migrations** — production-grade connection pooling through V24
-- **N+1 fixes** — `@EntityGraph` + batch loading across all entity relationships
-
-`Java` `Spring Boot` `PostgreSQL` `Spring Security` `Spring AOP` `Cloudflare R2` `Flyway` `HikariCP`
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Redis` `Spring AOP` `Cloudflare R2` `Flyway`
 
 ---
 
-### 🤖 Job Search Autopilot — AI-Powered Job Pipeline `[WIP]`
-> Automated scraping → matching → outreach pipeline using Gemini API
+### 🧠 [DocuMind](https://github.com/Ghanshyam32/documind) — RAG Document Q&A
+> Upload a PDF or TXT → ask questions in plain English → get answers with source citations
 
-- **Jsoup scraper** with SHA-256 deduplication to avoid reprocessing seen listings
-- **PDFBox resume parser** for dynamic JD-to-resume matching
-- **Spring WebFlux** for non-blocking, concurrent job feed processing
-- **Gemini API integration** for fit scoring and outreach draft generation
+- **RAG pipeline** — 500-word chunks with 50-word overlap, 3072-dim Gemini embeddings in pgvector
+- **Vector search** — cosine similarity over pgvector, top-k chunks injected into the prompt
+- **Per-user isolation** — each user's documents and searches scoped behind JWT auth
+- **Conversational memory** — last 5 exchanges per session for follow-up questions
+- **Tested + CI** — unit tests for chunking and JWT, run on every push with GitHub Actions; one-command Docker Compose setup
 
-`Java` `Spring WebFlux` `Gemini API` `Jsoup` `PDFBox` `PostgreSQL`
+`Java` `Spring Boot` `Spring AI` `pgvector` `Gemini API` `JWT` `Docker` `GitHub Actions`
+
+---
+
+### 🍲 [MealDB Explorer](https://github.com/Ghanshyam32/mealdb-explorer) — Full-Stack Recipe App
+> Spring Boot REST API with Caffeine caching + React frontend, deployed on Render and GCP Cloud Run
+
+`Java` `Spring Boot` `Caffeine` `React` `Vite` `Docker` `GCP`
+
+---
+
+**More:** [spring-boot-auth](https://github.com/Ghanshyam32/spring-boot-auth) (JWT + email verification) · [blog-app](https://github.com/Ghanshyam32/blog-app) (Spring Security, RBAC) · [chronos-app](https://github.com/Ghanshyam32/chronos-app) and [snap-saga](https://github.com/Ghanshyam32/snap-saga) (Android, from my Kotlin days)
 
 ---
 
@@ -137,14 +153,15 @@ Developer ghanshyam = new Developer.Builder()
 ## 🏆 Highlights
 
 - ☁️ **IIT Kharagpur Certified** — Java and Cloud Computing
-- 📱 **Published Android App** — Java/Firebase app shipped to Google Play Store (Jiva Health Innovation)
+- 📱 **Published Android App** — Kotlin app shipped to the Google Play Store (Jiva Health Innovation)
+- 🏋️ **Production SaaS backend** — GymerSheet, used by 100+ gyms
 - 🧠 **Built end-to-end RAG pipeline** — embeddings, vector search, LLM integration from scratch
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively looking for **Java/Spring Boot Backend roles** in Delhi NCR — immediate joiner.
+I'm looking for **full-stack (Spring Boot + React) and backend roles** in Delhi NCR — immediate joiner.
 
 > Building things that actually ship. Always learning. Never making excuses.
 
