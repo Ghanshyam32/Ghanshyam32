@@ -91,19 +91,30 @@ Developer ghanshyam = new Developer.Builder()
 
 ## 💼 Experience
 
-| When | Company | Role | What |
-|---|---|---|---|
-| Sep 2025 – present | **D Quanta Labs** | Software Developer (full-time) | CheapTicketsDeal flight-booking platform — backend and frontend features |
-| Dec 2024 – Aug 2025 | **Jiva Health Innovation** | Software Developer (full-time) | Kotlin Android app shipped to the Google Play Store |
+**Software Developer · D Quanta Labs** · Sep 2025 – present
+
+I work on CheapTicketsDeal, a flight-booking platform. Mostly Spring Boot on the backend, some React on the frontend.
+
+- Some customers were getting charged twice for the same booking. I added idempotency keys and optimistic locking to the booking flow, and duplicate bookings dropped from about 12 a month to zero.
+- Slow third-party calls were dragging down response times. Circuit breakers and timeouts with Resilience4j brought p95 latency from 1.8s to 950ms.
+- Got the app handling 300 concurrent users without falling over, mainly by caching hot data in Redis and fixing N+1 queries.
+
+**Software Developer · Jiva Health Innovation** · Dec 2024 – Aug 2025
+
+- Built and shipped the company's Android app in Kotlin. It's live on the Google Play Store.
+- Worked with Firebase and a Node.js backend on AWS.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 Medscalar — NEET Exam-Prep Platform (my own product)
-> Full-stack platform I built and run for NEET aspirants, with real users — mock tests, question banks and an admin panel. Preparing it for an all-India test series.
+### 🩺 [Medscalar](https://medscalar.com) — NEET prep platform I built and run
+> Mock tests and practice for NEET aspirants, with paying users. Spring Boot, React and PostgreSQL, deployed on Cloud Run.
 
-`Java` `Spring Boot` `PostgreSQL` `React` `TypeScript`
+- Getting it ready for an all-India mock test: 700+ students registered early, and we expect 3,000–4,000 on the day, all inside one 3-hour window
+- That means exam timers have to live on the server, and autosave and submission have to hold up when everyone hits "submit" in the last few minutes
+
+`Java` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Cloud Run`
 
 ---
 
