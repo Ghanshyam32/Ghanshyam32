@@ -27,11 +27,12 @@ Developer ghanshyam = new Developer.Builder()
     .name("Ghanshyam Mishra")
     .role("Full-Stack Engineer — Spring Boot + React, AI integrations")
     .location("Delhi NCR, India")
-    .experience("1+ year shipping production apps")
+    .currentRole("Software Developer @ D Quanta Labs")
+    .experience("2 years as a full-time Software Developer")
     .journey("Android (Kotlin) → Java backend → full stack → AI")
     .education("BCA + MCA · 2025")
     .certifiedBy("IIT Kharagpur — Java & Cloud Computing")
-    .currentlyBuilding("Medscalar — NEET exam-prep platform (freelance)")
+    .currentlyBuilding("Medscalar — my NEET exam-prep platform")
     .openTo("GCCs · Product Startups · Mid-size Tech Companies")
     .availableToJoin(true)
     .build();
@@ -90,15 +91,21 @@ Developer ghanshyam = new Developer.Builder()
 
 ## 💼 Experience
 
-| When | Where | What |
-|---|---|---|
-| Aug 2026 – now | **Medscalar** (freelance) | Full-stack NEET exam-prep platform with real users — Spring Boot backend, React admin and student apps |
-| Sep 2025 – May 2026 | **D Quanta Labs** (SWE intern, full stack) | CheapTicketsDeal flight-booking platform — backend and frontend features |
-| Dec 2024 – Aug 2025 | **Jiva Health Innovation** (freelance) | Kotlin Android app shipped to the Google Play Store |
+| When | Company | Role | What |
+|---|---|---|---|
+| Sep 2025 – present | **D Quanta Labs** | Software Developer (full-time) | CheapTicketsDeal flight-booking platform — backend and frontend features |
+| Dec 2024 – Aug 2025 | **Jiva Health Innovation** | Software Developer (full-time) | Kotlin Android app shipped to the Google Play Store |
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🩺 Medscalar — NEET Exam-Prep Platform (my own product)
+> Full-stack platform I built and run for NEET aspirants, with real users — mock tests, question banks and an admin panel. Preparing it for an all-India test series.
+
+`Java` `Spring Boot` `PostgreSQL` `React` `TypeScript`
+
+---
 
 ### 🏋️ [GymerSheet](https://github.com/Ghanshyam32/gymersheet-case-study) — Multi-Tenant Gym SaaS · [live](https://gymersheet.com)
 > Backend I built for a gym management product used by **100+ gyms and 5,000+ members**. Code is private — the [case study](https://github.com/Ghanshyam32/gymersheet-case-study) covers the architecture.
@@ -134,10 +141,7 @@ Developer ghanshyam = new Developer.Builder()
 
 ---
 
-### 📱 [Snap Saga](https://github.com/Ghanshyam32/snap-saga) — Social Media App (Android)
-> Instagram-style app with reel uploads and photo posts, from my Android days
-
-`Kotlin` `Android` `Firebase Auth` `Firestore` `Firebase Storage`
+**More:** [spring-boot-auth](https://github.com/Ghanshyam32/spring-boot-auth) (JWT + email verification) · [blog-app](https://github.com/Ghanshyam32/blog-app) (Spring Security, RBAC) · [chronos-app](https://github.com/Ghanshyam32/chronos-app) and [snap-saga](https://github.com/Ghanshyam32/snap-saga) (Android, from my Kotlin days)
 
 ---
 
